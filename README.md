@@ -15,3 +15,7 @@ int isLeapYear(int yy); leap year function is for checking leap year. when you w
 int daysInMonths(int mm, int yy); daysInMonths function is used for printing the how many days in this month .
 int getWeekDayForDate(int d2,int m2,int y2); it will print the week days for any given date. if we will input any day,month,year then it will tell the days name corretly.
 int monthNames(int m); it will print the months name from january to december with the help of switch case we will print the months name .
+
+
+![Annotation 2021-11-23 083939](https://user-images.githubusercontent.com/92446037/142979758-c7e5282c-fc71-4c2a-8148-83faa470ef57.png)
+
